@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963885024642",
+    "project_id": "whatsapp-b7101",
+    "storage_bucket": "whatsapp-b7101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963885024642:android:088a14603f9a3db85c7b9b",
+        "android_client_info": {
+          "package_name": "com.moringaschool.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963885024642-7gn7pth63ek6r5sojbjs9nh1flam1p6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moringaschool.whatsapp",
+            "certificate_hash": "e299b44578ed3065f62ec8a6fe81dbc59bec6789"
+          }
+        },
+        {
+          "client_id": "963885024642-m99j60puf6qdsl584erv45f7h6usm6o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83jUVAmccBfUp_h0B9JZvsDen9y8FAlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963885024642-m99j60puf6qdsl584erv45f7h6usm6o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
